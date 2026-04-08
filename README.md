@@ -54,11 +54,11 @@ The bubble tea shop dataset contains dirty location and ratings data that must b
 - `boba_tea_raw.csv` – uncleaned dataset 
 - `boba_tea_cleaned.csv` – cleaned dataset ready for analysis
 - `raw_data.png` – screenshot of raw dataset
-  ![screenshot_raw_data](https://github.com/Szymon-Podgajny-DA/Data-Cleaning-Boba-Tea/tree/main#:~:text=2%20weeks%20ago-,raw_data.png,-Add%20files%20via)
+  ![screenshot_raw_data]([https://github.com/Szymon-Podgajny-DA/Data-Cleaning-Boba-Tea/tree/main#:~:text=2%20weeks%20ago-,raw_data.png,-Add%20files%20via](https://github.com/Szymon-Podgajny-DA/Data-Cleaning-Boba-Tea/blob/main/raw_data.png))
 - `data_issues.png` – examples of issues like blank cells, duplicates, etc.
-  ![screenshot_data_issues](https://github.com/Szymon-Podgajny-DA/Data-Cleaning-Boba-Tea/tree/main#:~:text=2%20weeks%20ago-,data_issues.png,-Add%20files%20via)
+  ![screenshot_data_issues]([https://github.com/Szymon-Podgajny-DA/Data-Cleaning-Boba-Tea/tree/main#:~:text=2%20weeks%20ago-,data_issues.png,-Add%20files%20via](https://github.com/Szymon-Podgajny-DA/Data-Cleaning-Boba-Tea/blob/main/data_issues.png))
 - `cleaned_data.png` – screenshot of cleaned dataset.
-  ![screenshot_cleaned_data](https://github.com/Szymon-Podgajny-DA/Data-Cleaning-Boba-Tea/tree/main#:~:text=2%20weeks%20ago-,cleaned_data.png,-Add%20files%20via)
+  ![screenshot_cleaned_data]([https://github.com/Szymon-Podgajny-DA/Data-Cleaning-Boba-Tea/tree/main#:~:text=2%20weeks%20ago-,cleaned_data.png,-Add%20files%20via](https://github.com/Szymon-Podgajny-DA/Data-Cleaning-Boba-Tea/blob/main/cleaned_data.png))
 
 
 ## How This Demonstrates Data Analyst Skills 📈
