@@ -13,7 +13,7 @@ The bubble tea shop dataset contains dirty location and ratings data that must b
 ## Tools 🛠️
 - Google Sheets (or Excel)
 - Built-in data cleaning features: Remove duplicates, filters, Split text to columns
-- Spreadsheet formulas (e.g., UNIQUE, SPLIT, IF/OR)
+- Spreadsheet formulas (e.g., COUNTIF, SPLIT, IF/OR)
 
 ## Steps ✅
 
@@ -26,7 +26,7 @@ The bubble tea shop dataset contains dirty location and ratings data that must b
 
 3. **Remove Duplicates 🔁**
    - Use `Data → Remove duplicates` on the full table or key columns (e.g., store ID + address).
-   - Optionally apply `=UNIQUE(range)` to create a de-duplicated list.
+   - Additionally apply `=IF(COUNTIF($A$2:$A$605, A2)>1, "DUPLICATE", "")` to verify whether all duplicates have been removed.
 
 4. **Validate Rating Ranges ⭐**
    - Define a valid rating range (0 to 5 for Yelp ratings).
@@ -65,7 +65,6 @@ Example:
 
 - `boba_tea_raw.csv` – Original, uncleaned dataset (or as close as license allows)
 - `boba_tea_cleaned.csv` – Cleaned dataset ready for analysis
-- `cleaning_steps.md` – Short description of manual cleaning steps (optional)
 - `images/` – Screenshots showing before/after cleaning
 
 ## How This Demonstrates Data Analyst Skills 📈
